@@ -36,3 +36,11 @@ The rest of the code is commented to mention what is the purpose.
 #### Sources
 - Lecture notes.
 - https://pandas.pydata.org/docs/reference/api/pandas.unique.html
+
+#### Show the status and Gender 
+- Plotting the status count in graph with seaborn.
+
+#### Source
+https://seaborn.pydata.org/generated/seaborn.countplot.html
+
+#### Century Class vs Practice
