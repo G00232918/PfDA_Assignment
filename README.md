@@ -1,4 +1,8 @@
 # PfDA_Assignment
+# Project 1
+- Author - James Connolly
+- Student_Number - G00232918
+- Module - Programming & Scripting
 
 #### Table of Contents
 
